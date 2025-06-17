@@ -1,0 +1,6 @@
+streamlit
+torch
+timm
+joblib
+Pillow
+matplotlib
